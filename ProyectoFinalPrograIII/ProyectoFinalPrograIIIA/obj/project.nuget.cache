@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJhg1zgY59TiOCWog4MBA5W6ZqPmhx+BWW9qf1t+FhB0qrx7Zoc7R3skzVERqf3PsioTV+m7Ntxjey88IgIkyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\ProyectoSnake\\ProyectoFinalPrograIIIA\\ProyectoFinalPrograIIIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
