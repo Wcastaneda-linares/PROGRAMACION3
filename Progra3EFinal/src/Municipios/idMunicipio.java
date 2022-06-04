@@ -11,9 +11,9 @@ package Municipios;
  */
 public class idMunicipio {
 
-    public char MunicipiosJutiapa(String s) {
+    public char MunicipiosJutiapa(String op) {
         char id = '&';
-        switch (s) {
+        switch (op) {
             case "Jutiapa":
                 id = 'a';
                 break;

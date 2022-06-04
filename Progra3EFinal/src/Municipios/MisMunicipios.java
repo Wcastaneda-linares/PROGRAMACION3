@@ -11,9 +11,9 @@ package Municipios;
  */
 public class MisMunicipios {
     
-    public String jutiapaMunicipios(char cr){
+    public String jutiapaMunicipios(char op){
            String Municipios = "";
-        switch (cr) {
+        switch (op) {
             case 'a':
                 Municipios = "Jutiapa";
                 break;

@@ -67,9 +67,9 @@ public class Grafo {
         }
         
         String ruta = "";
-        MisMunicipios Munis = new MisMunicipios();
+        MisMunicipios municipios = new MisMunicipios();
         // recorre la pila para armar la ruta en el orden correcto
-        while(!pila.isEmpty()) ruta+=" ->"+Munis.jutiapaMunicipios(pila.pop().id);
+        while(!pila.isEmpty()) ruta+=" ->"+municipios.jutiapaMunicipios(pila.pop().id);
         lblKmsRecorridos.setText(ruta);
         return " "+distancia;
     }
